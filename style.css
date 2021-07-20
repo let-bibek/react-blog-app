@@ -1,0 +1,26 @@
+.info{
+    color:rgb(0, 68, 255);
+}
+
+.max-size-limited,select{
+    
+    max-width: 30rem;
+}
+.goldrust{
+    background: goldenrod;
+}
+
+footer{
+    
+    margin: 50px auto -100px auto;
+}
+.about-page{
+    min-height: 100vh;
+    padding: 3rem;
+}
+
+@media (max-width:468px) {
+    .about-page{
+        padding: 2rem;
+    }
+}
